@@ -1,0 +1,21 @@
+{
+  "name": "PlayW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexSofft/PlayW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexSofft/PlayW/issues"
+  },
+  "homepage": "https://github.com/AlexSofft/PlayW#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.2"
+  }
+}
