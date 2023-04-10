@@ -38,7 +38,7 @@ module.exports = defineConfig({
         {
             name: 'setup',
             testDir: './',
-            testMatch: "*.js"
+            testMatch: ["**/*.js"]
         },
 
         {
