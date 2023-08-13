@@ -7,7 +7,7 @@ test('test', async ({ page }) => {
   // await page1.getByPlaceholder('Email Address').click();
   // await page1.getByPlaceholder('Email Address').fill('qasthpark@gmail.com');
   // await page1.getByPlaceholder('Password').click();
-  // await page1.getByPlaceholder('Password').fill('MJwilson83');
+  // await page1.getByPlaceholder('Password').fill('||......d3');
   // await page1.getByRole('button', { name: 'Login' }).click();    
   const page1 = await page1Promise;
 
